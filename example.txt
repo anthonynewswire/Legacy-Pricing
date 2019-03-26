@@ -5,3 +5,5 @@ This is where we will change the code.
 This is more editing this information.
 
 Remove cells.
+
+formatting the cells
